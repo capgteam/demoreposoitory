@@ -1,2 +1,4 @@
 Hello! Welcome to Git configurations.
 Good Afternoon to all!
+
+The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
